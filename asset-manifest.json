@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Foodshop/static/css/main.b97a857c.css",
+    "main.js": "/Foodshop/static/js/main.94b16556.js",
+    "static/js/787.a878762a.chunk.js": "/Foodshop/static/js/787.a878762a.chunk.js",
+    "static/media/background.png": "/Foodshop/static/media/background.3c2663373ad5414c76d7.png",
+    "static/media/bg_product_info.png": "/Foodshop/static/media/bg_product_info.e4f1acdd56451cdd6b81.png",
+    "index.html": "/Foodshop/index.html",
+    "main.b97a857c.css.map": "/Foodshop/static/css/main.b97a857c.css.map",
+    "main.94b16556.js.map": "/Foodshop/static/js/main.94b16556.js.map",
+    "787.a878762a.chunk.js.map": "/Foodshop/static/js/787.a878762a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b97a857c.css",
+    "static/js/main.94b16556.js"
+  ]
+}

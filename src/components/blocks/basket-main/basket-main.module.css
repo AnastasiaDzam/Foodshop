@@ -1,0 +1,37 @@
+.basket__main {
+  margin-left: 15px;
+  overflow-x: hidden;
+}
+
+.basket__container {
+  font-family: 'Montserrat';
+  font-style: normal;
+  width: 860px;
+  margin: 0 auto;
+  height: calc(100vh - 222px);
+  padding-right: 5px;
+}
+
+.basket__main::-webkit-scrollbar {
+  width: 15px;
+}
+
+
+::-webkit-scrollbar-track {
+  background-color: #161516;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #161516;
+  border-radius: 15px;
+  border: 2px solid #D58C51;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #282c34;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background-color: #161516;
+}
+

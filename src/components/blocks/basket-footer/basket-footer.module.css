@@ -1,0 +1,42 @@
+.basket__footer {
+  border-top: 2px solid #D58C51;
+  font-family: 'Montserrat';
+  font-style: normal;
+}
+
+.basket__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 860px;
+  margin: 20px auto 0 auto;
+  
+}
+
+.basket__order-price {
+  color: white;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 26px;
+  text-transform: uppercase;
+}
+
+.basket__order-price span {
+  color: #D58C51;
+  margin-left: 15px;
+}
+
+.basket__button {
+  background-color: #D58C51;
+  padding: 12px 40px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 17px;
+  cursor: pointer;
+}
+
+.basket__button:active {
+  transform: scale(0.99);
+}

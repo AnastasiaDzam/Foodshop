@@ -1,0 +1,46 @@
+.basket__product {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 31px;
+}
+
+.basket__meal-name {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 98px;
+}
+
+.basket__leftbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  column-gap: 15px;
+}
+
+.basket__price {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 22px;
+  color: #D58C51;
+}
+
+.basket__description {
+  color: #fff;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 21px;
+  width: 500px;
+}
+
+.basket__xmark {
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.basket__xmark:hover {
+  background-color: #724d2e;
+}
